@@ -29,9 +29,11 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
-![DESIGN](./pencil1.png)
+![pencil1](https://user-images.githubusercontent.com/119218812/215150050-f8da5aa1-0ea4-4355-8f4b-d3f370b18047.jpg)
 
-![DESIGN](./pencil2.png)
+![pencil2](https://user-images.githubusercontent.com/119218812/215150083-49111792-48a5-4fd5-8235-525d2dbf2367.jpg)
+
+
 
 ## RESULT:
 Thus, A Web application for event registration is designed and displayed.
